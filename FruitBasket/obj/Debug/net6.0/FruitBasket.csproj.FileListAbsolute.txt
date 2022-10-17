@@ -1,0 +1,12 @@
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/bin/Debug/net6.0/FruitBasket.deps.json
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/bin/Debug/net6.0/FruitBasket.dll
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/bin/Debug/net6.0/FruitBasket.pdb
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.csproj.AssemblyReference.cache
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.AssemblyInfoInputs.cache
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.AssemblyInfo.cs
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.csproj.CoreCompileInputs.cache
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.dll
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/refint/FruitBasket.dll
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.pdb
+/Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/ref/FruitBasket.dll
