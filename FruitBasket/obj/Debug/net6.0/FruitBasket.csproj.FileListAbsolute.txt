@@ -10,3 +10,15 @@
 /Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/refint/FruitBasket.dll
 /Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/FruitBasket.pdb
 /Users/syedahmed/Projects/FruitBasket/FruitBasket/obj/Debug/net6.0/ref/FruitBasket.dll
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/bin/Debug/net6.0/FruitBasket.deps.json
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/bin/Debug/net6.0/FruitBasket.dll
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/bin/Debug/net6.0/FruitBasket.pdb
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/FruitBasket.csproj.AssemblyReference.cache
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/FruitBasket.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/FruitBasket.AssemblyInfoInputs.cache
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/FruitBasket.AssemblyInfo.cs
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/FruitBasket.csproj.CoreCompileInputs.cache
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/FruitBasket.dll
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/refint/FruitBasket.dll
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/FruitBasket.pdb
+/Users/alicebroadhurst/Projects/FruitBasket-1/FruitBasket/obj/Debug/net6.0/ref/FruitBasket.dll
